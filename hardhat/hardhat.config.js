@@ -13,3 +13,5 @@ module.exports = {
     },
   },
 };
+
+//contract address: 0x8d86BeCfC8Ed440e954DC4EC3cAeB4fcC39f873c
